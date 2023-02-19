@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Daniel, nice to meet you 👋
 
 <!--
 **danielvec/danielvec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
